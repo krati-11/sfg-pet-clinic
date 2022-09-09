@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>guru.springframework</groupId>
 	<artifactId>sfg-pet-clinic</artifactId>
-	<version>0.0.02-SNAPSHOT</version>
+	<version>0.0.02</version>
 	<name>sfg-pet-clinic</name>
 	<description>SFG Pet Clinic Project</description>
 	<properties>
@@ -29,7 +29,7 @@
 	
 	 <scm>
   	<developerConnection>scm:git:https://github.com/krati-11/sfg-pet-clinic</developerConnection>
-    <tag>HEAD</tag>
+    <tag>sfg-pet-clinic-0.0.02</tag>
   </scm>
 	
 	<build>
