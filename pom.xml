@@ -44,7 +44,7 @@
 	</build>  
 	
 	<scm>
-		<developerConnection>scm:git:https://github.com/krati-11/sfg-pet-clinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:krati-11/sfg-pet-clinic.git</developerConnection>
 	</scm>
 
 	<modules>
