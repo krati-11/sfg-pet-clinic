@@ -2,6 +2,7 @@ package com.springframework.sfgpetclinic.model;
 
 import java.io.Serializable;
 
+@SuppressWarnings("serial")
 public class BaseEntity implements Serializable{
 	private Long id;
 
